@@ -5,6 +5,7 @@ export default function LeagueSchedule() {
   return (
     <main>
       <Header />
+      <h1 className="text-center">page content here</h1>
       <Footer />
     </main>
   )
