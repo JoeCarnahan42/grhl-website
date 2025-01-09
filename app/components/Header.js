@@ -43,6 +43,7 @@ export const Header = () => {
         </Link>
         <hr />
       </div>
+      {/*TODO: Change dropdown to hover rather than click */}
       <nav className="navbar justify-content-center nav-text">
         <ul style={{border:'none'}}  className="list-group list-group-horizontal">
           <li style={{border:'none', paddingTop: '0px'}} className="list-group-item">
@@ -52,13 +53,13 @@ export const Header = () => {
             <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownTeams" role="button" data-bs-toggle='dropdown' aria-expanded='false'>Teams</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownTeams">
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Lincoln Division</Link>
+                <Link className="dropdown-item" href={'/lincoln-division'}>Lincoln Division</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Show-Me Division</Link>
+                <Link className="dropdown-item" href={'/show-me-division'}>Show-Me Division</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Waivers</Link>
+                <Link className="dropdown-item" href={'/waivers'}>Waivers</Link>
               </li>
             </ul>
           </li>
@@ -66,16 +67,16 @@ export const Header = () => {
             <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownStats" role="button" data-bs-toggle='dropdown' aria-expanded='false'>Stats</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownStats">
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Standings</Link>
+                <Link className="dropdown-item" href={'/standings'}>Standings</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>League Leaders</Link>
+                <Link className="dropdown-item" href={'/league-leaders'}>League Leaders</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Player Records</Link>
+                <Link className="dropdown-item" href={'/player-records'}>Player Records</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Box Scores</Link>
+                <Link className="dropdown-item" href={'/box-scores'}>Box Scores</Link>
               </li>
             </ul>
           </li>
@@ -83,22 +84,22 @@ export const Header = () => {
             <Link className="nav-link" href={'/league-schedule'}>Schedule</Link>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="list-group-item">
-            <Link className="nav-link" href={'TODO: Route to location'}>Special Events</Link>
+            <Link className="nav-link" href={'/special-events'}>Special Events</Link>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="nav-item-dropdown list-group-item">
             <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownNews" role="button" data-bs-toggle='dropdown' aria-expanded='false'>News</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownNews">
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Articles</Link>
+                <Link className="dropdown-item" href={'/articles'}>Articles</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>&quot;Special Edition&quot; Articles</Link>
+                <Link className="dropdown-item" href={'/special-articles'}>&quot;Special Edition&quot; Articles</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>League Updates</Link>
+                <Link className="dropdown-item" href={'/updates'}>League Updates</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>GRHL Podcast</Link>
+                <Link className="dropdown-item" href={'/podcast'}>GRHL Podcast</Link>
               </li>
             </ul>
           </li>
@@ -106,19 +107,19 @@ export const Header = () => {
             <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownAbout" role="button" data-bs-toggle='dropdown' aria-expanded='false'>About Us</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownAbout">
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Meet The Board</Link>
+                <Link className="dropdown-item" href={'/meet-the-board'}>Meet The Board</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Constitution</Link>
+                <Link className="dropdown-item" href={'/constitution'}>Constitution</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Rules & Regulations</Link>
+                <Link className="dropdown-item" href={'/rules-regs'}>Rules & Regulations</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Player Code of Conduct</Link>
+                <Link className="dropdown-item" href={'/player-code-of-conduct'}>Player Code of Conduct</Link>
               </li>
               <li>
-                <Link className="dropdown-item" href={'TODO: Rout to location'}>Sponsors</Link>
+                <Link className="dropdown-item" href={'/sponsors'}>Sponsors</Link>
               </li>
             </ul>
           </li>
