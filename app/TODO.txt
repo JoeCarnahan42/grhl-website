@@ -1,3 +1,3 @@
-Start Footer. 
-Finish Home page, Logo with a important updated tab, maybe a next games tab?
-Begin first team page.
+Make league schedule page.
+add dynamic 'upcomming games' section to home page.
+add 'stars of the week' section to home page.

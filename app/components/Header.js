@@ -2,6 +2,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import { useRouter } from "next/navigation"
+import { Dropdown } from "bootstrap"
 
 export const Header = () => {
   return (
@@ -45,10 +46,10 @@ export const Header = () => {
       <nav className="navbar justify-content-center nav-text">
         <ul style={{border:'none'}}  className="list-group list-group-horizontal">
           <li style={{border:'none', paddingTop: '0px'}} className="list-group-item">
-            <Link className="nav-link" href={'TODO: Rout to location'}>Home</Link>
+            <Link className="nav-link" href={'/home'}>Home</Link>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="nav-item-dropdown list-group-item">
-            <Link className="nav-link dropdown-toggle" href={'#'} id="navbarDropdownTeams" role="button" data-bs-toggle='dropdown' aria-expanded='false'>Teams</Link>
+            <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownTeams" role="button" data-bs-toggle='dropdown' aria-expanded='false'>Teams</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownTeams">
               <li>
                 <Link className="dropdown-item" href={'TODO: Rout to location'}>Lincoln Division</Link>
@@ -62,7 +63,7 @@ export const Header = () => {
             </ul>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="nav-item-dropdown list-group-item">
-            <Link className="nav-link dropdown-toggle" href={'#'} id="navbarDropdownStats" role="button" data-bs-toggle='dropdown' aria-expanded='false'>Stats</Link>
+            <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownStats" role="button" data-bs-toggle='dropdown' aria-expanded='false'>Stats</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownStats">
               <li>
                 <Link className="dropdown-item" href={'TODO: Rout to location'}>Standings</Link>
@@ -79,13 +80,13 @@ export const Header = () => {
             </ul>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="list-group-item">
-            <Link className="nav-link" href={'TODO: Route to location'}>Schedule</Link>
+            <Link className="nav-link" href={'/league-schedule'}>Schedule</Link>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="list-group-item">
             <Link className="nav-link" href={'TODO: Route to location'}>Special Events</Link>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="nav-item-dropdown list-group-item">
-            <Link className="nav-link dropdown-toggle" href={'#'} id="navbarDropdownNews" role="button" data-bs-toggle='dropdown' aria-expanded='false'>News</Link>
+            <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownNews" role="button" data-bs-toggle='dropdown' aria-expanded='false'>News</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownNews">
               <li>
                 <Link className="dropdown-item" href={'TODO: Rout to location'}>Articles</Link>
@@ -102,7 +103,7 @@ export const Header = () => {
             </ul>
           </li>
           <li style={{border:'none', paddingTop: '0px'}} className="nav-item-dropdown list-group-item">
-            <Link className="nav-link dropdown-toggle" href={'#'} id="navbarDropdownAbout" role="button" data-bs-toggle='dropdown' aria-expanded='false'>About Us</Link>
+            <Link className="nav-link dropdown-toggle" href={'dropdown'} id="navbarDropdownAbout" role="button" data-bs-toggle='dropdown' aria-expanded='false'>About Us</Link>
             <ul className="dropdown-menu" aria-labelledby="navbarDropdownAbout">
               <li>
                 <Link className="dropdown-item" href={'TODO: Rout to location'}>Meet The Board</Link>
