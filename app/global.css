@@ -1,3 +1,98 @@
 .nav-text {
   font-size: x-large;
 }
+/* Home Team Schedule Images */
+.wolves-home {
+  background-image: url("/media/schedule-images/wolves-schedule-home.PNG");
+}
+
+.sting-home {
+  background-image: url("/media/schedule-images/sting-schedule-home.PNG");
+}
+
+.raptors-home {
+  background-image: url("/media/schedule-images/raptors-schedule-home.PNG");
+}
+
+.moose-home {
+  background-image: url("/media/schedule-images/moose-schedule-home.PNG");
+}
+
+.cudas-home {
+  background-image: url("/media/schedule-images/cudas-schedule-home.PNG");
+}
+
+.outlaws-home {
+  background-image: url("/media/schedule-images/outlaws-schedule-home.PNG");
+}
+
+.tcats-home {
+  background-image: url("/media/schedule-images/tcats-schedule-home.PNG");
+}
+
+.jets-home {
+  background-image: url("/media/schedule-images/jets-schedule-home.PNG");
+}
+
+.venom-home {
+  background-image: url("/media/schedule-images/venom-schedule-home.PNG");
+}
+
+.yetis-home {
+  background-image: url("/media/schedule-images/yetis-schedule-home.PNG");
+}
+
+/* Away Team Schedule Images */
+.outlaws-away {
+  background-image: url("/media/schedule-images/outlaws-schedule-away.PNG");
+}
+
+.tcats-away {
+  background-image: url("/media/schedule-images/tcats-schedule-away.PNG");
+}
+
+.jets-away {
+  background-image: url("/media/schedule-images/jets-schedule-away.PNG");
+}
+
+.venom-away {
+  background-image: url("/media/schedule-images/venom-schedule-away.PNG");
+}
+
+.yetis-away {
+  background-image: url("/media/schedule-images/yetis-schedule-away.PNG");
+}
+
+.wolves-away {
+  background-image: url("/media/schedule-images/wolves-schedule-away.PNG");
+}
+
+.sting-away {
+  background-image: url("/media/schedule-images/sting-schedule-away.PNG");
+}
+
+.raptors-away {
+  background-image: url("/media/schedule-images/raptors-schedule-away.PNG");
+}
+
+.moose-away {
+  background-image: url("/media/schedule-images/moose-schedule-away.PNG");
+}
+
+.cudas-away {
+  background-image: url("/media/schedule-images/cudas-schedule-away.PNG");
+}
+
+/* Home and away text formatting */
+.away {
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: right;
+}
+
+.home {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  text-align: left;
+}
