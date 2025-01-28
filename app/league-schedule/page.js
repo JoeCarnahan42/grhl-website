@@ -5,6 +5,8 @@ import Image from "next/image";
 
 export default function LeagueSchedule() {
   return (
+    // Add statement to handle api error //
+    // If there is no gameData, what happens? //
     <main>
       <Header />
       <h1
