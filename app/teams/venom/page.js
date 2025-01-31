@@ -1,5 +1,5 @@
-import { Footer } from "../components/Footer";
-import { Header } from "../components/Header";
+import { Footer } from "@/app/components/Footer";
+import { Header } from "@/app/components/Header";
 
 export default function Venom() {
   return (
@@ -8,5 +8,5 @@ export default function Venom() {
       <h1 className="text-center">page content here</h1>
       <Footer />
     </main>
-  )
+  );
 }
