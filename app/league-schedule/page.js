@@ -5,8 +5,6 @@ import Image from "next/image";
 
 export default function LeagueSchedule() {
   return (
-    // Add statement to handle api error //
-    // If there is no gameData, what happens? //
     <main>
       <Header />
       <h1
@@ -43,7 +41,7 @@ export default function LeagueSchedule() {
             {gameData.weekOne.map((game) => (
               <tr key={game.game}>
                 <th scope="row">{game.time}</th>
-                <th className="away">
+                <th>
                   <Image
                     src={game.awayImg}
                     width={55}
@@ -52,7 +50,7 @@ export default function LeagueSchedule() {
                   />{" "}
                   {game.away}
                 </th>
-                <th className="home">
+                <th>
                   {game.home}{" "}
                   <Image
                     src={game.homeImg}
