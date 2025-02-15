@@ -7,9 +7,18 @@ export const Roster = (prop) => {
   const team = prop.team;
   const teamName = team.toLowerCase();
   const teamRoster = rosterData[teamName];
+  console.log(team);
 
   return (
-    <div className="container">
+    <div className="container text-center">
+      <Image
+        height={350}
+        width={350}
+        alt={`${team} Logo`}
+        src={`/media/team-logos/header-logos/${team}.avif`}
+      />
+      <br />
+      <br />
       <table className="table table-bordered text-center">
         <thead>
           <tr>
