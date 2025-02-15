@@ -2,8 +2,6 @@ import { rosterData } from "@/public/rosterData";
 import Image from "next/image";
 
 export const Roster = (prop) => {
-  // TODO: complete roster function
-  // parameter is a string team name. "Barracudas"
   const team = prop.team;
   const teamName = team.toLowerCase();
   const teamRoster = rosterData[teamName];
