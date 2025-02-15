@@ -125,7 +125,7 @@ export const records = [
     {
       division: "Show-Me",
       name: "Barracudas",
-      img: "/media/team-logos/grhl-cudas-logo.avif",
+      img: "/media/team-logos/grhl-barracudas-logo.avif",
       scratches: 23,
       wins: 5,
       losses: 2,
