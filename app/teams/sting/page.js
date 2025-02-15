@@ -7,7 +7,8 @@ export default function Sting() {
   return (
     <main>
       <Header />
-      <h1 className="text-center">page content here</h1>
+      <h1 className="text-center">2024-2025 Sting Roster</h1>
+      <Roster team="sting" />
       <Footer />
     </main>
   );

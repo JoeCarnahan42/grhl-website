@@ -335,7 +335,7 @@ export const gameData = {
       awayImg: "/media/team-logos/grhl-outlaws-logo.avif",
       home: "Wolves",
       homeImg: "/media/team-logos/grhl-wolves-logo.avif",
-      score: "Outlaws : 0 | 0 : Wolves",
+      score: "Outlaws : 4 | 6 : Wolves",
       time: "2:30pm",
     },
     {
@@ -344,7 +344,7 @@ export const gameData = {
       awayImg: "/media/team-logos/grhl-venom-logo.avif",
       home: "Barracudas",
       homeImg: "/media/team-logos/grhl-cudas-logo.avif",
-      score: "Venom : 0 | 0 : Barracudas",
+      score: "Venom : 4 | 9 : Barracudas",
       time: "4:00pm",
     },
     {
@@ -353,7 +353,7 @@ export const gameData = {
       awayImg: "/media/team-logos/grhl-yetis-logo.avif",
       home: "Moose",
       homeImg: "/media/team-logos/grhl-moose-logo.avif",
-      score: "Yetis : 0 | 0 : Moose",
+      score: "Yetis : 5 | 9 : Moose",
       time: "5:30pm",
     },
     {
@@ -362,7 +362,7 @@ export const gameData = {
       awayImg: "/media/team-logos/grhl-jets-logo.avif",
       home: "Raptors",
       homeImg: "/media/team-logos/grhl-raptors-logo.avif",
-      score: "Jets : 0 | 0 : Raptors",
+      score: "Jets : 14 | 4 : Raptors",
       time: "7:00pm",
     },
     {
@@ -371,7 +371,7 @@ export const gameData = {
       awayImg: "/media/team-logos/grhl-tcats-logo.avif",
       home: "Sting",
       homeImg: "/media/team-logos/grhl-sting-logo.avif",
-      score: "Thundercats : 0 | 0 : Sting",
+      score: "Thundercats : 11 | 8 : Sting",
       time: "8:30pm",
     },
   ],

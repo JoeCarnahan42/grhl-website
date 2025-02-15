@@ -7,7 +7,8 @@ export default function Outlaws() {
   return (
     <main>
       <Header />
-      <h1 className="text-center">page content here</h1>
+      <h1 className="text-center">2024-2025 Outlaws Roster</h1>
+      <Roster team="outlaws" />
       <Footer />
     </main>
   );

@@ -7,7 +7,8 @@ export default function Thundercats() {
   return (
     <main>
       <Header />
-      <h1 className="text-center">page content here</h1>
+      <h1 className="text-center">2024-2025 Thundercats Roster</h1>
+      <Roster team="thundercats" />
       <Footer />
     </main>
   );

@@ -6,9 +6,8 @@ export default function Barracudas() {
   return (
     <main className="text-center">
       <Header />
-      <h1 className="text-center">page content here</h1>
-      <h1>Roster</h1>
-      <Roster props={"Barracudas"} />
+      <h1 className="text-center">2024-2025 Barracudas Roster</h1>
+      <Roster team="barracudas" />
       <Footer />
     </main>
   );
