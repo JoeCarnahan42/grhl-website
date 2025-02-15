@@ -1,17 +1,14 @@
-import 'bootstrap/dist/css/bootstrap.min.css'
-import './global.css'
-
-export const metadata = {
-  title: "Gateway Roller Hockey League",
-  description: "Recreation Roller Hockey League",
-};
+"use client";
+import { useEffect } from "react";
 
 export default function RootLayout({ children }) {
+  useEffect(() => {
+    import("bootstrap/dist/css/bootstrap.min.css");
+    import("./global.css");
+  }, []);
   return (
     <html lang="en">
-      <body>
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

@@ -37,7 +37,7 @@ export const Header = () => {
           <Image
             height={65}
             width={65}
-            src="/media/team-logos/grhl-tcats-logo.avif"
+            src="/media/team-logos/grhl-thundercats-logo.avif"
             alt="Thundercats Team Logo"
           />
         </Link>
@@ -61,7 +61,7 @@ export const Header = () => {
           <Image
             height={65}
             width={65}
-            src="/media/team-logos/grhl-cudas-logo.avif"
+            src="/media/team-logos/grhl-barracudas-logo.avif"
             alt="Barracudas Team Logo"
           />
         </Link>

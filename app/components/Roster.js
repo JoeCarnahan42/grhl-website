@@ -7,7 +7,6 @@ export const Roster = (prop) => {
   const team = prop.team;
   const teamName = team.toLowerCase();
   const teamRoster = rosterData[teamName];
-  console.log(team);
 
   return (
     <div className="container text-center">

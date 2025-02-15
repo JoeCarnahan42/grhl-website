@@ -54,7 +54,7 @@ export const records = [
     {
       division: "Lincoln",
       name: "Thundercats",
-      img: "/media/team-logos/grhl-tcats-logo.avif",
+      img: "/media/team-logos/grhl-thundercats-logo.avif",
       scratches: 16,
       wins: 5,
       losses: 2,
