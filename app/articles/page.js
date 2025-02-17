@@ -3,6 +3,7 @@ import { Footer } from "../components/Footer"
 
 
 export default function Articles() {
+  // TODO: Complete articles page
   return (
     <main>
       <Header />

@@ -2,6 +2,9 @@ import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
 
 export default function PodCast() {
+  // TODO: Complete podcast page.
+  // link to spotify page
+  // a player featuring newest episode?
   return (
     <main>
       <Header />
