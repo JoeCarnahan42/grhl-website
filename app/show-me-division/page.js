@@ -5,7 +5,6 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function LincolnDiv() {
-  // TODO: add Lincoln division teams and logos as buttons that redirect to team pages.
   const lincolnDiv = records[1]
 
 
