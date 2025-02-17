@@ -1,4 +1,3 @@
-// TODO : Finish league standings component
 'use client'
 import { records } from "@/public/teamRecords";
 import Image from "next/image";
