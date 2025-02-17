@@ -12,6 +12,7 @@ export const Footer = () => {
                 className="display-6"
                 style={{}}
                 href={"https://teamlocker.squadlocker.com/#/lockers/grhl"}
+                target="_blank"
               >
                 Buy GRHL Fan Gear
               </Link>
