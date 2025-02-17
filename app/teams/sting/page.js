@@ -3,7 +3,7 @@ import { Header } from "@/app/components/Header";
 import { Roster } from "@/app/components/Roster";
 
 export default function Sting() {
-  // TODO: complete team pages.
+  // : complete team pages.
   return (
     <main>
       <Header />

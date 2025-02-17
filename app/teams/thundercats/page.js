@@ -3,7 +3,6 @@ import { Header } from "@/app/components/Header";
 import { Roster } from "@/app/components/Roster";
 
 export default function Thundercats() {
-  // TODO: complete team pages.
   return (
     <main>
       <Header />
