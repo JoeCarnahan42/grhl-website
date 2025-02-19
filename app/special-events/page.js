@@ -3,6 +3,7 @@ import { Footer } from "../components/Footer"
 
 
 export default function SpecialEvents() {
+  // TODO: Complete special events page
   return (
     <main>
       <Header />

@@ -1,15 +1,15 @@
+'use client'
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./global.css";
-
-export const metadata = {
-  title: "Gateway Roller Hockey League",
-  description: "Recreation Roller Hockey League",
-};
+import { Provider } from "react-redux";
+import store from "./store/configureStore";
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <Provider store={store}>
+        <body>{children}</body>
+      </Provider>
     </html>
   );
 }

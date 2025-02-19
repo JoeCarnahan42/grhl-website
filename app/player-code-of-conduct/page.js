@@ -2,6 +2,7 @@ import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
 
 export default function PlayerCodeOfConduct() {
+  // TODO: Complete player CoC page
   return (
     <main>
       <Header />

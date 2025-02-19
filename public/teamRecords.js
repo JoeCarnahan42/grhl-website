@@ -3,7 +3,7 @@ export const records = [
     {
       division: "Lincoln",
       name: "Moose",
-      img: "/media/team-logos/grhl-moose-logo.avif",
+      img: "/media/team-logos/header-logos/moose.avif",
       scratches: 18,
       wins: 2,
       losses: 4,
@@ -20,7 +20,7 @@ export const records = [
     {
       division: "Lincoln",
       name: "Sting",
-      img: "/media/team-logos/grhl-sting-logo.avif",
+      img: "/media/team-logos/header-logos/sting.avif",
       scratches: 10,
       wins: 4,
       losses: 2,
@@ -37,7 +37,7 @@ export const records = [
     {
       division: "Lincoln",
       name: "Wolves",
-      img: "/media/team-logos/grhl-wolves-logo.avif",
+      img: "/media/team-logos/header-logos/wolves.avif",
       scratches: 13,
       wins: 5,
       losses: 1,
@@ -54,7 +54,7 @@ export const records = [
     {
       division: "Lincoln",
       name: "Thundercats",
-      img: "/media/team-logos/grhl-thundercats-logo.avif",
+      img: "/media/team-logos/header-logos/thundercats.avif",
       scratches: 16,
       wins: 5,
       losses: 2,
@@ -71,7 +71,7 @@ export const records = [
     {
       division: "Lincoln",
       name: "Outlaws",
-      img: "/media/team-logos/grhl-outlaws-logo.avif",
+      img: "/media/team-logos/header-logos/outlaws.avif",
       scratches: 13,
       wins: 5,
       losses: 2,
@@ -91,7 +91,7 @@ export const records = [
     {
       division: "Show-Me",
       name: "Jets",
-      img: "/media/team-logos/grhl-jets-logo.avif",
+      img: "/media/team-logos/header-logos/jets.avif",
       scratches: 18,
       wins: 4,
       losses: 2,
@@ -108,7 +108,7 @@ export const records = [
     {
       division: "Show-Me",
       name: "Yetis",
-      img: "/media/team-logos/grhl-yetis-logo.avif",
+      img: "/media/team-logos/header-logos/yetis.avif",
       scratches: 21,
       wins: 1,
       losses: 5,
@@ -125,7 +125,7 @@ export const records = [
     {
       division: "Show-Me",
       name: "Barracudas",
-      img: "/media/team-logos/grhl-barracudas-logo.avif",
+      img: "/media/team-logos/header-logos/barracudas.avif",
       scratches: 23,
       wins: 5,
       losses: 2,
@@ -142,7 +142,7 @@ export const records = [
     {
       division: "Show-Me",
       name: "Venom",
-      img: "/media/team-logos/grhl-venom-logo.avif",
+      img: "/media/team-logos/header-logos/venom.avif",
       scratches: 10,
       wins: 3,
       losses: 4,
@@ -159,7 +159,7 @@ export const records = [
     {
       division: "Show-Me",
       name: "Raptors",
-      img: "/media/team-logos/grhl-raptors-logo.avif",
+      img: "/media/team-logos/header-logos/raptors.avif",
       scratches: 16,
       wins: 0,
       losses: 7,
