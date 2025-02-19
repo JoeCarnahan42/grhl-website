@@ -1,3 +1,2 @@
-Make league schedule page.
 add dynamic 'upcomming games' section to home page.
 add 'stars of the week' section to home page.
