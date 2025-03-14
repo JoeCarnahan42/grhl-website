@@ -1,6 +1,7 @@
 "use client";
 import { rosterData } from "@/public/rosterData";
 import Image from "next/image";
+import Link from "next/link";
 
 export const Roster = (prop) => {
   const team = prop.team;
@@ -14,6 +15,8 @@ export const Roster = (prop) => {
       return `/media/team-logos/header-logos/${team}.avif`;
     }
   };
+  // TODO: Set up react context to transfer data to a local store for individual player pages
+  // TODO: add sorting function
 
   return (
     <div className="container text-center">
@@ -70,7 +73,7 @@ export const Roster = (prop) => {
           {teamRoster.map((player) => (
             <tr key={player.name}>
               <th className="align-middle" scope="row">
-                {player.name}
+                <Link href={"../player-page"}>{player.name}</Link>
               </th>
               <th className="align-middle">
                 <Image
