@@ -1,3 +1,4 @@
+"use client";
 import { rosterData } from "@/public/rosterData";
 import Image from "next/image";
 
@@ -6,13 +7,21 @@ export const Roster = (prop) => {
   const teamName = team.toLowerCase();
   const teamRoster = rosterData[teamName];
 
+  const chooseImage = () => {
+    if (team === "waivers") {
+      return "/media/team-logos/header-logos/waivers.png";
+    } else {
+      return `/media/team-logos/header-logos/${team}.avif`;
+    }
+  };
+
   return (
     <div className="container text-center">
       <Image
         height={350}
         width={350}
         alt={`${team} Logo`}
-        src={`/media/team-logos/header-logos/${team}.avif`}
+        src={chooseImage()}
       />
       <br />
       <br />
