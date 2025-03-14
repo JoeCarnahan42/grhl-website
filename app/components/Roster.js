@@ -67,7 +67,7 @@ export const Roster = (prop) => {
                 <Image
                   width={75}
                   height={75}
-                  alt={`${player.name}'s image.`}
+                  alt={"No Image"}
                   src={player.image}
                 />
               </th>
