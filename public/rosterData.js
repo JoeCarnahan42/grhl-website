@@ -1716,7 +1716,7 @@ export const rosterData = {
     },
     {
       name: "Demetrius Daniels",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 3,
       goals: 4,
@@ -1758,7 +1758,7 @@ export const rosterData = {
     },
     {
       name: "Henry Brink",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 3,
       goals: 4,
@@ -1772,7 +1772,7 @@ export const rosterData = {
     },
     {
       name: "Michael Kelemen",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 4,
       goals: 3,
@@ -1800,7 +1800,7 @@ export const rosterData = {
     },
     {
       name: "James Imo",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 3,
       goals: 2,
@@ -1870,7 +1870,7 @@ export const rosterData = {
     },
     {
       name: "Chad Welker",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 4,
       goals: 1,
@@ -1884,7 +1884,7 @@ export const rosterData = {
     },
     {
       name: "Chad Bartoszkiewicz",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 3,
       goals: 1,
@@ -1926,7 +1926,7 @@ export const rosterData = {
     },
     {
       name: "Brett Downs",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 3,
       goals: 1,
@@ -1940,7 +1940,7 @@ export const rosterData = {
     },
     {
       name: "Michael Bivens",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 1,
       goals: 1,
@@ -2038,7 +2038,7 @@ export const rosterData = {
     },
     {
       name: "Sam Lemmink",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "G",
       games_played: 3,
       goals: 0,
@@ -2066,7 +2066,7 @@ export const rosterData = {
     },
     {
       name: "Devin Scheitlin",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "D/F",
       games_played: 2,
       goals: 0,
@@ -2234,7 +2234,7 @@ export const rosterData = {
     },
     {
       name: "Mike Barlow",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2248,7 +2248,7 @@ export const rosterData = {
     },
     {
       name: "Bryan Hennen",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2262,7 +2262,7 @@ export const rosterData = {
     },
     {
       name: "Shawn Poitras",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2276,7 +2276,7 @@ export const rosterData = {
     },
     {
       name: "Matt Hale",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2290,7 +2290,7 @@ export const rosterData = {
     },
     {
       name: "Brett Williamson",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2318,7 +2318,7 @@ export const rosterData = {
     },
     {
       name: "Jacob Townsend",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2332,7 +2332,7 @@ export const rosterData = {
     },
     {
       name: "Andrew Widenhoffer",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2346,7 +2346,7 @@ export const rosterData = {
     },
     {
       name: "Jacob Shepard",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2360,7 +2360,7 @@ export const rosterData = {
     },
     {
       name: "Joey Solimando",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2374,7 +2374,7 @@ export const rosterData = {
     },
     {
       name: "Zach Resmann",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2388,7 +2388,7 @@ export const rosterData = {
     },
     {
       name: "Kyle Meehan",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2402,7 +2402,7 @@ export const rosterData = {
     },
     {
       name: "Jonathan Urvater",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2416,7 +2416,7 @@ export const rosterData = {
     },
     {
       name: "Tyler Hinterser",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2430,7 +2430,7 @@ export const rosterData = {
     },
     {
       name: "Jayne Lewis",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2458,7 +2458,7 @@ export const rosterData = {
     },
     {
       name: "Jacob Williams",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2472,7 +2472,7 @@ export const rosterData = {
     },
     {
       name: "Zach McFadden",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2486,7 +2486,7 @@ export const rosterData = {
     },
     {
       name: "Anthony Hummert",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2500,7 +2500,7 @@ export const rosterData = {
     },
     {
       name: "Andrew Kuehnel",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2514,7 +2514,7 @@ export const rosterData = {
     },
     {
       name: "Andy Casper",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2528,7 +2528,7 @@ export const rosterData = {
     },
     {
       name: "Shane Barrett",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2542,7 +2542,7 @@ export const rosterData = {
     },
     {
       name: "Brandon Barrett",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2556,7 +2556,7 @@ export const rosterData = {
     },
     {
       name: "Darin Geragosian",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "",
       games_played: 0,
       goals: 0,
@@ -2598,7 +2598,7 @@ export const rosterData = {
     },
     {
       name: "David Tolcou",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "D/F",
       games_played: 0,
       goals: 0,
@@ -2626,7 +2626,7 @@ export const rosterData = {
     },
     {
       name: "Lynn McNew",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "G",
       games_played: 0,
       goals: 0,
@@ -2654,7 +2654,7 @@ export const rosterData = {
     },
     {
       name: "Kayne Pasquet",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "D/F",
       games_played: 0,
       goals: 0,
@@ -2668,7 +2668,7 @@ export const rosterData = {
     },
     {
       name: "Kelvin Dooley",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2724,7 +2724,7 @@ export const rosterData = {
     },
     {
       name: "Trey Katich",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "G",
       games_played: 0,
       goals: 0,
@@ -2738,7 +2738,7 @@ export const rosterData = {
     },
     {
       name: "Luke Eversgerd",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2766,7 +2766,7 @@ export const rosterData = {
     },
     {
       name: "Bobby Schaper",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2780,7 +2780,7 @@ export const rosterData = {
     },
     {
       name: "Adam Levy",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2794,7 +2794,7 @@ export const rosterData = {
     },
     {
       name: "Christopher Nunn",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "D/F",
       games_played: 0,
       goals: 0,
@@ -2808,7 +2808,7 @@ export const rosterData = {
     },
     {
       name: "Andrew Hayes",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2822,7 +2822,7 @@ export const rosterData = {
     },
     {
       name: "Cory Zippmann",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2836,7 +2836,7 @@ export const rosterData = {
     },
     {
       name: "Shawn DeLonyPena",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2850,7 +2850,7 @@ export const rosterData = {
     },
     {
       name: "Christian Miller",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2864,7 +2864,7 @@ export const rosterData = {
     },
     {
       name: "Brayden Wacholtz",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "D",
       games_played: 0,
       goals: 0,
@@ -2878,7 +2878,7 @@ export const rosterData = {
     },
     {
       name: "Dillon Raphael",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2892,7 +2892,7 @@ export const rosterData = {
     },
     {
       name: "Lee McCarthy",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2906,7 +2906,7 @@ export const rosterData = {
     },
     {
       name: "Brett Wessel",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2920,7 +2920,7 @@ export const rosterData = {
     },
     {
       name: "Jacob Potts",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2934,7 +2934,7 @@ export const rosterData = {
     },
     {
       name: "Cam Gillen",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
@@ -2948,7 +2948,7 @@ export const rosterData = {
     },
     {
       name: "Tucker Jeffries",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2962,7 +2962,7 @@ export const rosterData = {
     },
     {
       name: "Tim Bing",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -2976,7 +2976,7 @@ export const rosterData = {
     },
     {
       name: "Richard McBain",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "G",
       games_played: 0,
       goals: 0,
@@ -3004,7 +3004,7 @@ export const rosterData = {
     },
     {
       name: "Andrew Morgan",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -3242,7 +3242,7 @@ export const rosterData = {
     },
     {
       name: "Zach Bunjan",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F/D",
       games_played: 0,
       goals: 0,
@@ -3298,7 +3298,7 @@ export const rosterData = {
     },
     {
       name: "Jacob Troxell",
-      image: "/media/images/player-images/waiver-images/No-Photo.png",
+      image: "/media/images/player-images/waiver-images/No-Photo.PNG",
       position: "F",
       games_played: 0,
       goals: 0,
