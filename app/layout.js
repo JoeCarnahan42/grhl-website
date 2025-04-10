@@ -1,14 +1,18 @@
-"use client";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./global.css";
-import { BrowserRouter } from "react-router-dom";
+import AppClientWrapper from "./components/AppClientWrapper";
+
+export const metadata = {
+  title: "GRHL Website",
+  description: "Official Gateway Roller Hockey League Website",
+};
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <BrowserRouter>
-        <body>{children}</body>
-      </BrowserRouter>
+      <body>
+        <AppClientWrapper>{children}</AppClientWrapper>
+      </body>
     </html>
   );
 }

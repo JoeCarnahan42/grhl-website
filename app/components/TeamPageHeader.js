@@ -1,11 +1,14 @@
 // TODO: Complete team page header component
 // Roster/Cap outlook/Schedule
 "use client";
-import { useDispatch } from "react-redux";
+import { useContext } from "react";
+import { TeamPageContext } from "../context/TeamPageContext";
 
 export const TeamPageHeader = () => {
+  const { setView } = useContext(TeamPageContext);
+
   const handleClick = (e) => {
-    const selection = JSON.stringify(e.target.id);
+    setView(e.target.id);
   };
 
   return (
