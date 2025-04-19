@@ -1,18 +1,32 @@
-// TODO: Style THIS component
+// TODO: Style THIS component BETTER
 import { transactionData } from "@/public/transactionData";
 
 export const Transactions = (prop) => {
-  const currentTeam = prop.team
-  const transactions = transactionData[currentTeam]
+  const currentTeam = prop.team;
+  const transactions = transactionData[currentTeam];
 
   return (
     <>
-      <h1>Transactions</h1>
-      {transactions.map((trade) => {
-        return (
-          <h2 key={trade.date}>{trade.date} - {trade.trade}</h2>
-        )
-      })}
+      <div className="container text-center">
+        <table className="table table-bordered text-center">
+          <thead>
+            <tr>
+              <th scope="col">Date</th>
+              <th scope="col">Transaction</th>
+            </tr>
+          </thead>
+          <tbody>
+            {transactions.map((trade) => (
+              <tr key={trade.transId}>
+                <th className="align-middle" scope="row">
+                  {trade.date}
+                </th>
+                <th className="align-middle">{trade.trade}</th>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </>
   );
 };
