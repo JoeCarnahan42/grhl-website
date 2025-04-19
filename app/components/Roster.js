@@ -15,7 +15,6 @@ export const Roster = (prop) => {
       return `/media/team-logos/header-logos/${team}.avif`;
     }
   };
-  // TODO: Set up react context to transfer data to a local store for individual player pages
   // TODO: add sorting function
 
   return (
