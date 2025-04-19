@@ -30,6 +30,9 @@ export default function Thundercats() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">
+          2024-2025 Thundercats Transaction History
+        </h1>
         <Transactions team="thundercats" />
       </main>
     );
@@ -41,6 +44,7 @@ export default function Thundercats() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Thundercats Cap Outlook</h1>
         <CapOutlook team="thundercats" />
       </main>
     );

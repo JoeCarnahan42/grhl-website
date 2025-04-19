@@ -30,6 +30,7 @@ export default function Outlaws() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Outlaws Transaction History</h1>
         <Transactions team="outlaws" />
       </main>
     );
@@ -41,6 +42,7 @@ export default function Outlaws() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Outlaws Cap Outlook</h1>
         <CapOutlook team="outlaws" />
       </main>
     );

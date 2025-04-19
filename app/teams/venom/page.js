@@ -30,6 +30,7 @@ export default function Venom() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Venom Transaction History</h1>
         <Transactions team="venom" />
       </main>
     );
@@ -41,6 +42,7 @@ export default function Venom() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Venom Cap Outlook</h1>
         <CapOutlook team="venom" />
       </main>
     );

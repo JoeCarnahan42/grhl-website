@@ -30,6 +30,9 @@ export default function Barracudas() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">
+          2024-2025 Barracudas Transaction History
+        </h1>
         <Transactions team="barracudas" />
       </main>
     );
@@ -41,6 +44,7 @@ export default function Barracudas() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Barracudas Cap Outlook</h1>
         <CapOutlook team="barracudas" />
       </main>
     );
