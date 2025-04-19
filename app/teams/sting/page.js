@@ -30,6 +30,7 @@ export default function Sting() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Sting Transaction History</h1>
         <Transactions team="sting" />
       </main>
     );
@@ -41,6 +42,7 @@ export default function Sting() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Sting Cap Outlook</h1>
         <CapOutlook team="sting" />
       </main>
     );

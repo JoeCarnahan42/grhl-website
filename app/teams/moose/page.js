@@ -30,6 +30,7 @@ export default function Moose() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Moose Transaction History</h1>
         <Transactions team="moose" />
       </main>
     );
@@ -41,6 +42,7 @@ export default function Moose() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Moose Transaction Cap Outlook</h1>
         <CapOutlook team="moose" />
       </main>
     );

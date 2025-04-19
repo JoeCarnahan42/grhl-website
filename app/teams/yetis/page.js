@@ -30,6 +30,7 @@ export default function Yetis() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Yetis Transaction History</h1>
         <Transactions team="yetis" />
       </main>
     );
@@ -41,6 +42,7 @@ export default function Yetis() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Yetis Cap Outlook</h1>
         <CapOutlook team="yetis" />
       </main>
     );

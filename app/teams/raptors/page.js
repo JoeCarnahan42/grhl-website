@@ -30,6 +30,7 @@ export default function Raptors() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Raptors Transaction History</h1>
         <Transactions team="raptors" />
       </main>
     );
@@ -41,6 +42,7 @@ export default function Raptors() {
         <Header />
         <TeamPageHeader />
         <br />
+        <h1 className="text-center">2024-2025 Raptors Cap Outlook</h1>
         <CapOutlook team="raptors" />
       </main>
     );
