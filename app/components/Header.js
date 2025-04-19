@@ -1,15 +1,8 @@
 "use client";
-import { useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 
 export const Header = () => {
-  useEffect(() => {
-    if (typeof window !== "undefined") {
-      import("bootstrap/dist/js/bootstrap.esm.js");
-    }
-  }, []);
   return (
     <div>
       <div className="container text-center p-2">

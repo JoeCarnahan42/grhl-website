@@ -7,10 +7,14 @@ export default function HomePage() {
     <main>
       <Header />
       <div className="text-center py-5">
-        <Image width={940} height={440} src={'/media/team-logos/grhl-home-logo.avif'} alt="GRHL Logo" />
+        <Image
+          width={940}
+          height={440}
+          src={"/media/team-logos/grhl-home-logo.avif"}
+          alt="GRHL Logo"
+        />
       </div>
       <Footer />
     </main>
-    )
-
+  );
 }
