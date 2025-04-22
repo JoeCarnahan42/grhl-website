@@ -32,6 +32,7 @@ export default function Wolves() {
         <br />
         <h1 className="text-center">2024-2025 Wolves Transaction History</h1>
         <Transactions team="wolves" />
+        <Footer />
       </main>
     );
   }
@@ -44,6 +45,7 @@ export default function Wolves() {
         <br />
         <h1 className="text-center">2024-2025 Wolves Cap Outlook</h1>
         <CapOutlook team="wolves" />
+        <Footer />
       </main>
     );
   }
