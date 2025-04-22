@@ -32,6 +32,7 @@ export default function Jets() {
         <br />
         <h1 className="text-center">2024-2025 Jets Transaction History</h1>
         <Transactions team="jets" />
+        <Footer />
       </main>
     );
   }
@@ -44,6 +45,7 @@ export default function Jets() {
         <br />
         <h1 className="text-center">2024-2025 Jets Cap Cap Outlook</h1>
         <CapOutlook team="jets" />
+        <Footer />
       </main>
     );
   }

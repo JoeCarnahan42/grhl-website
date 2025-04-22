@@ -32,6 +32,7 @@ export default function Raptors() {
         <br />
         <h1 className="text-center">2024-2025 Raptors Transaction History</h1>
         <Transactions team="raptors" />
+        <Footer />
       </main>
     );
   }
@@ -44,6 +45,7 @@ export default function Raptors() {
         <br />
         <h1 className="text-center">2024-2025 Raptors Cap Outlook</h1>
         <CapOutlook team="raptors" />
+        <Footer />
       </main>
     );
   }

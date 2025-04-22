@@ -34,6 +34,7 @@ export default function Barracudas() {
           2024-2025 Barracudas Transaction History
         </h1>
         <Transactions team="barracudas" />
+        <Footer />
       </main>
     );
   }
@@ -46,6 +47,7 @@ export default function Barracudas() {
         <br />
         <h1 className="text-center">2024-2025 Barracudas Cap Outlook</h1>
         <CapOutlook team="barracudas" />
+        <Footer />
       </main>
     );
   }

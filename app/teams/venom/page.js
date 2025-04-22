@@ -32,6 +32,7 @@ export default function Venom() {
         <br />
         <h1 className="text-center">2024-2025 Venom Transaction History</h1>
         <Transactions team="venom" />
+        <Footer />
       </main>
     );
   }
@@ -44,6 +45,7 @@ export default function Venom() {
         <br />
         <h1 className="text-center">2024-2025 Venom Cap Outlook</h1>
         <CapOutlook team="venom" />
+        <Footer />
       </main>
     );
   }

@@ -34,6 +34,7 @@ export default function Thundercats() {
           2024-2025 Thundercats Transaction History
         </h1>
         <Transactions team="thundercats" />
+        <Footer />
       </main>
     );
   }
@@ -46,6 +47,7 @@ export default function Thundercats() {
         <br />
         <h1 className="text-center">2024-2025 Thundercats Cap Outlook</h1>
         <CapOutlook team="thundercats" />
+        <Footer />
       </main>
     );
   }
